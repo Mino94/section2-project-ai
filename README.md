@@ -4,7 +4,7 @@
 
 data url : https://www.kaggle.com/gregorut/videogamesales
 
-Data Description
+## Data Description
 
 - Name : 게임의 이름입니다.
 - Platform : 게임이 지원되는 플랫폼의 이름입니다.
@@ -15,6 +15,8 @@ Data Description
 - EU_Sales : 유럽 매출액입니다.
 - JP_Sales : 일본 매출액입니다.
 - Other_Sales : 기타지역 매출액입니다.
+
+## Process
 
 1. EDA(탐색적 데이터 분석)
 2. Feature Engineering
