@@ -15,3 +15,8 @@ Data Description
 - EU_Sales : 유럽 매출액입니다.
 - JP_Sales : 일본 매출액입니다.
 - Other_Sales : 기타지역 매출액입니다.
+
+## EDA(탐색적 데이터 분석)
+## Feature Engineering
+## Data Visualization
+## 결론
