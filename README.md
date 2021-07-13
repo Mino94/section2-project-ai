@@ -16,7 +16,7 @@ Data Description
 - JP_Sales : 일본 매출액입니다.
 - Other_Sales : 기타지역 매출액입니다.
 
-## EDA(탐색적 데이터 분석)
-## Feature Engineering
-## Data Visualization
-## 결론
+1. EDA(탐색적 데이터 분석)
+2. Feature Engineering
+3. Data Visualization
+4. 결론
